@@ -7,8 +7,8 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 const char* ssid = "ASUS_X008";
-const char* password = "12345678";
-const char* mqtt_server = "192.168.43.188";
+const char* password = "*******";
+const char* mqtt_server = "***.***.**.***";
 
 // set pin numbers
 const int buttonPin = 4;  
